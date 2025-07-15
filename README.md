@@ -1,4 +1,5 @@
 # Compiler-Constriction-Codes
 This contain my all the practicals of compiler construction.
 <br>
-Author :- Aayush Jibhkate
+Author :- Aayush computer
+
